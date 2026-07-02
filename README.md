@@ -18,7 +18,8 @@ DHT11 센서로 온습도를 측정하여 LCD에 실시간 표시하고,
 - 센서 읽기 실패 시 에러 메시지 표시
 
 ## 회로 연결
-(여기에 회로도 이미지 삽입 예정)
+<img width="1265" height="740" alt="스크린샷 2026-07-02 225552" src="https://github.com/user-attachments/assets/88d09741-be90-41a0-a0e2-795293da39ad" />
+
 
 ## 작동 영상
 https://youtu.be/Tmll5k1o54U
